@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I'm currently working on my Portfolio, Recipes, Blogs, Videos and Feed website. (www.gleni.co.uk)<br>💻 I'm currently learning PHP, Laravel and AI.<br>🐾 Fun fact: I love being around animals, especially dogs. I have a dog called Mac who is a rescue dog. He is a 'jippet', a cross between a Jack Russell and a Whippet.
+🌐 I'm currently working on my Portfolio, Recipes, Blogs, Videos and Feed website. (www.gleni.co.uk)<br>💻 I'm currently learning PHP, Laravel and AI.<br>🐾 Fun fact is that I love being around animals, especially dogs. I have a dog called Mac who is a rescue dog. He is a 'jippet', a cross between a Jack Russell and a Whippet.
 
 
 ## 🌐 Socials:
